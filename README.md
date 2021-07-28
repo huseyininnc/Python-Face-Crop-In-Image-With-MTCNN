@@ -11,3 +11,8 @@ With other images
 With multi images default images path is multi_face_images
 
 `main.py --mode cimi`
+
+Crop faces in video
+
+`main.py --mode civ`
+
