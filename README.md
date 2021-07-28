@@ -1,4 +1,5 @@
 # Python Face Crop In Image With MTCNN
 
-Basic usage\n
+Basic usage
+
 `main.py`
