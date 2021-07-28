@@ -1,6 +1,6 @@
 # Python Face Crop In Image With MTCNN
 
-Basic usage defaults faces.jpg
+Basic usage default image is faces.jpg
 
 `main.py`
 
