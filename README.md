@@ -8,6 +8,6 @@ With other images
 
 `main.py --fip image.jpg`
 
-With multi images
+With multi images default images path is multi_face_images
 
 `main.py --mode cimi`
