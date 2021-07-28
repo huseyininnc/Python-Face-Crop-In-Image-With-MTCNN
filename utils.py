@@ -38,7 +38,6 @@ def face_crop_in_multi_images(multi_images_folder_path, faces_folder_path):
             cropped_face_number += 1
     print(f"[FINISHED] [TIME: {time.time() - start_time :.2f} seconds]")
 
-
 def face_crop_in_video(cam_id, faces_folder_path, sleep_time):
     video = cv2.VideoCapture(int(cam_id))
     while True:
