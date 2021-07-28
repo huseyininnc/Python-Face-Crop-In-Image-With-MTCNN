@@ -5,7 +5,7 @@ from mtcnn.mtcnn import MTCNN
 
 detector = MTCNN()
 
-def crop(img, results,face):
+def crop(img, results, face):
     x1, y1, width, height = results[face]["box"]
     x2, y2 = x1+width, y1+height
     cropped_face = img[y1:y2, x1:x2]
