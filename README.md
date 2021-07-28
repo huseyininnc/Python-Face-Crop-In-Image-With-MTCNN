@@ -5,4 +5,5 @@ Basic usage
 `main.py`
 
 With other images
+
 `main.py --fip image.jpg`
