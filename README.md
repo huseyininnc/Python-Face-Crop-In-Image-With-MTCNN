@@ -16,3 +16,6 @@ Crop faces in video
 
 `main.py --mode civ`
 
+Other settings
+
+`main.py -h`
