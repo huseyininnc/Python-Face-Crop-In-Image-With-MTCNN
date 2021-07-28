@@ -5,11 +5,11 @@ import argparse
 config_object = ConfigParser()
 config_object.read("config.conf")
 
-crop_mode = config_object["PATH"]["crop_mode"]
+crop_mode = config_object["SETTINGS"]["crop_mode"]
+cam_id = config_object["SETTINGS"]["cam_id"]
+sleep_time = config_object["SETTINGS"]["sleep_time"]
 faces_folder_path = config_object["PATH"]["faces_folder_path"]
 faces_image_path = config_object["PATH"]["faces_image_path"]
-cam_id = config_object["PATH"]["cam_id"]
-sleep_time = config_object["PATH"]["sleep_time"]
 multi_images_folder_path = config_object["PATH"]["multi_images_folder_path"]
 
 def main(args):
