@@ -2,4 +2,4 @@
 
 Basic usage
 
-`main.py`
+```main.py```
