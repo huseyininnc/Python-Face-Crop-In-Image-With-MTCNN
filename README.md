@@ -1,4 +1,4 @@
-# Python Face Crop In Image And Videos With MTCNN
+# Python Face Crop In Images And Videos With MTCNN
 
 Basic usage default image is faces.jpg
 
