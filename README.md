@@ -7,3 +7,7 @@ Basic usage
 With other images
 
 `main.py --fip image.jpg`
+
+With multi images
+
+`main.py --mode cimi`
